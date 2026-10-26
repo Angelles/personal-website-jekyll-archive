@@ -1,4 +1,6 @@
-# Angelle Leger's Professional Website - README
+# personal-website-jekyll-archive
+
+## Angelle Leger's Professional Website - README
 
 This site was built with Jekyll, using the Minimal Mistakes theme [using the remote theme method](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#remote-theme-method) and Github Pages.
 
@@ -7,7 +9,4 @@ The content was migrated from Wordpress, using [Wordpress Export to Markdown on 
 The written content on this website is by Angelle Leger. It is stored in https://github.com/Angelles/angelles.github.io.
 
 You can find my website at https://www.angelleleger.net.
-# personal-website-jekyll-archive
-# personal-website-jekyll-archive
-# personal-website-jekyll-archive
-# personal-website-jekyll-archive
+
